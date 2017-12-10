@@ -1,0 +1,209 @@
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\SplitButton.dll
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.dll
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.dll
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\SplitButton.dll
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+D:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+G:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+D:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.dll
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\SplitButton.dll
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+D:\PEN\PSI\PT\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+D:\PEN\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+G:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+E:\PSI\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+E:\PSI\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.dll
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\SplitButton.dll
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+G:\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\SplitButton.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\ValidText.dll
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\ValidText.pdb
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\bin\Debug\ValidText.xml
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaCapa.resources
+D:\PEN\PSI\mod 2.8 e 2.9\PT\iPlayer\iPlayer\obj\Debug\iPlayer.aCarregar.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\ValidText.pdb
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\ValidText.xml
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carla\Desktop\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.aCarregar.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaCapa.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\ValidText.pdb
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\ValidText.xml
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.aCarregar.resources
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaCapa.resources
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+C:\Users\Carla\Desktop\Nova pasta (4)\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe.config
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.ResolveComReference.cache
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.exe
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.xml
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.pdb
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\iPlayer.accdb
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\iPlayer.exe
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\iPlayer.pdb
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\iPlayer.xml
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\ValidText.pdb
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\ValidText.xml
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.aCarregar.resources
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.AlterarNomePlaylist.resources
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaPrincipal.resources
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaInformacoes.resources
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Acerca.resources
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.JanelaCapa.resources
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.Resources.resources
+C:\Users\Carla\Desktop\PT\iPlayer\iPlayer\obj\Debug\iPlayer.vbproj.GenerateResource.Cache
+C:\Users\Carla\Desktop\iPlayer\iPlayer\obj\Debug\iPlayer.FormSync.resources

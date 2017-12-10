@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C3AE37DD-930B-4842-B6CA-C28B0C676293}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>iPlayer.My.MyApplication</StartupObject>
+    <RootNamespace>iPlayer</RootNamespace>
+    <AssemblyName>iPlayer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>iTunes.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>iPlayer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>iPlayer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CheckBoxComboBox, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\AuxPT\CheckBoxComboBox\CheckBoxComboBox\bin\Debug\CheckBoxComboBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="SplitButton, Version=2.0.3.9876, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\AuxPT\SplitButton\bin\Release\SplitButton.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="ValidText, Version=1.0.3595.18156, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\M2.5+M2.7\Validações\ValidText\ValidText\bin\ValidText.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aCarregar.Designer.vb">
+      <DependentUpon>aCarregar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aCarregar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ajuda.Designer.vb">
+      <DependentUpon>Ajuda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ajuda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarNomePlaylist.Designer.vb">
+      <DependentUpon>AlterarNomePlaylist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarNomePlaylist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bll.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JanelaCapa.Designer.vb">
+      <DependentUpon>JanelaCapa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JanelaCapa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OleDbHelper.vb" />
+    <Compile Include="Tag.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aCarregar.resx">
+      <DependentUpon>aCarregar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ajuda.resx">
+      <DependentUpon>Ajuda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarNomePlaylist.resx">
+      <DependentUpon>AlterarNomePlaylist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JanelaCapa.resx">
+      <DependentUpon>JanelaCapa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\500_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cdrwblank-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StepForwardNormalBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music-file-24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueDisc11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\audioandradio_hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\op copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_rew-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_fwd-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerpp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mute_on1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mute_off1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acerca.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-List-Add-32_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail_find-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Playlist-Shuffle-32_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Playlist-Shuffle-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Playlist-Repeat-32_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Playlist-Repeat_one.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Playlist-Repeat-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\110.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\410.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_rew_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerpp_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_fwd_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_pause_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_stop-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_stop_press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_rew_enabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_rew-32_enabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\player_fwd-32_enabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sem1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\imp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="iPlayer.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="iTunes.ico" />
+    <None Include="Resources\pendrive_128x128.png" />
+    <None Include="Resources\iPod_-_Black_128.png" />
+    <None Include="Resources\24_cinzento.png" />
+    <None Include="Resources\fundoP.bmp" />
+    <None Include="Resources\gh1.bmp" />
+    <None Include="Resources\gh.bmp" />
+    <None Include="Resources\cv.bmp" />
+    <None Include="Resources\vol.bmp" />
+    <None Include="Resources\pendrive_64x64.png" />
+    <None Include="Resources\iPod_-_Black_64.png" />
+    <None Include="Resources\Doc-MusicPlaylist_32d.png" />
+    <None Include="Resources\Doc-MusicPlaylist_32.png" />
+    <None Include="Resources\juj.png" />
+    <None Include="Resources\Music-32.png" />
+    <None Include="Resources\Glass-Music_32.png" />
+    <None Include="Resources\4w.png" />
+    <None Include="Resources\Folder-Music-321.png" />
+    <None Include="Resources\Folder-Music-32.png" />
+    <None Include="Resources\Folder_Music_321.png" />
+    <None Include="Resources\Folder_Music_32.png" />
+    <None Include="Resources\jk.png" />
+    <None Include="Resources\400_F_6127188_8GYwCRwxwgtTNQv9gtODx7l4BdshkHSj_transparente.png" />
+    <None Include="Resources\8-11.gif" />
+    <None Include="Resources\8-1.gif" />
+    <None Include="Resources\NopCapaCD.bmp" />
+    <None Include="Resources\MultiSelec.bmp" />
+    <None Include="Resources\nada_Em_Reprod.bmp" />
+    <None Include="Resources\cancel2.png" />
+    <None Include="Resources\cancel1.png" />
+    <None Include="Resources\Music_321.png" />
+    <None Include="Resources\Music.png" />
+    <None Include="Resources\Music_32.png" />
+    <None Include="Resources\iTunes-48.png" />
+    <None Include="Resources\iTunes-32.png" />
+    <None Include="Resources\nopCapa.bmp" />
+    <None Include="Resources\playerpp_enabled.png" />
+    <None Include="Resources\aff.bmp" />
+    <None Include="Resources\nada_seleccionado.bmp" />
+    <None Include="Resources\semc.bmp" />
+    <None Include="Resources\sem_capa.bmp" />
+    <None Include="Resources\w.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
